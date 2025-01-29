@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""More is different" - P.W. Anderson"
+title: "More is different - P.W. Anderson"
 author_profile: true
 redirect_from: 
   - /about/
