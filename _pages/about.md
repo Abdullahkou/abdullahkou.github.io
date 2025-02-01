@@ -18,10 +18,11 @@ redirect_from:
 
 ## Hello!
 
-I am a Data Scientist with a strong focus on Deep Learning, Computer Vision, and Data Science. My research explores Multi-Task Learning, Panoptic Segmentation, and AI applications in healthcare, aiming to develop cutting-edge solutions that enhance medical diagnostics.
+I am a Data Scientist with a strong focus on Computer Vision. My research explores Multi-Task Learning, Panoptic Segmentation, and AI applications in healthcare, aiming to develop cutting-edge solutions that enhance medical diagnostics.
 
-I am currently pursuing a Bachelor’s degree in Artificial Intelligence at THI (Technische Hochschule Ingolstadt), where I have worked on various research projects involving deep learning architectures, computer vision, and natural language processing (NLP). My goal is to develop efficient AI models that can operate under real-world constraints while maintaining high accuracy.
+I am currently pursuing a Bachelor’s degree in Artificial Intelligence at THI (Technische Hochschule Ingolstadt), where I have worked on various research projects involving deep learning architectures, computer vision, and natural language processing (NLP). My goal is to develop efficient AI models that can operate under real-world constraints.
 
 ---
 
-📍 **On a personal note**, I am Syrian and proudly Arab, deeply connected to my cultural heritage and background. I am passionate about medical AI and dedicated to bridging technology with impactful real-world applications.
+📍 **On a personal note**, I am Syrian and Arab, deeply connected to my cultural heritage and background. I also enjoy reading and playing football in my free time.
+
