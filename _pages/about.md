@@ -24,5 +24,6 @@ I am currently pursuing a Bachelor’s degree in Artificial Intelligence at THI 
 
 ---
 
-📍 **On a personal note**, I am Syrian and Arab, deeply connected to my cultural heritage and background. I also enjoy reading and playing football in my free time.
+📍 On a personal note, I am Syrian and strongly connected to my cultural heritage, which influences both my work and perspective. 
+Beyond that, I enjoy reading and playing football as ways to learn, unwind, and stay active
 
