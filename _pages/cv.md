@@ -16,9 +16,3 @@ Super Education!
 Work experience
 ======
 More than enough!
-  
-Skills
-======
-* Skill 1
-* Skill 2
-* Skill 3
