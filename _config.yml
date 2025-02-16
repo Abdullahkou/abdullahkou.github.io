@@ -15,7 +15,7 @@ description              : &description "Data Scientist"
 repository               : "abdullahkou/abdullahkou.github.io"
 author:
   name                  : "Abdullah Koukash"
-  email                 : "deinemail@example.com"
+  email                 : "a.koukash@outlook.com"
   linkedin              : "https://www.linkedin.com/in/abdullahkoukash"
   github                : "https://github.com/abdullahkou"
 
@@ -31,7 +31,7 @@ author:
   bio              : "Data Scientist"
   location         : "Germany"
   employer         : "AI Enthusiast"
-  email            : "abdullah@example.com"
+  email            : "a.koukash@outlook.com"
   linkedin         : "https://www.linkedin.com/in/abdullahkou"
   github           : "https://github.com/abdullahkou"
 
