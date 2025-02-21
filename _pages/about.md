@@ -25,4 +25,4 @@ Currently, I am pursuing a Bachelor’s degree in Artificial Intelligence at THI
 
 ---
 
-📍On a more personal note, I’m originally from Syria and have a strong connection to my cultural heritage. In my free time, I enjoy reading, playing football, and exploring new technologies. I also have a deep love for swimming and diving—there’s something fascinating about exploring the underwater world, experiencing weightlessness, and discovering the beauty beneath the surface. Anything that involves water feels like a natural escape for me.
+📍On a more personal note, I’m originally from Syria and have a strong connection to my cultural heritage. In my free time, I enjoy reading, playing football, and exploring new technologies. I also have a deep love for swimming and diving—there’s something fascinating about exploring the underwater world, experiencing weightlessness, and discovering the beauty beneath the surface.
