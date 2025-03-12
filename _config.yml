@@ -26,7 +26,7 @@ author:
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"  # Falls du ein Bild hast, speichere es im Image-Ordner
+  avatar           : "IMG_2525.jpeg"  # Falls du ein Bild hast, speichere es im Image-Ordner
   name             : "Abdullah Koukash"
   bio              : "Data Scientist"
   location         : "Germany"
